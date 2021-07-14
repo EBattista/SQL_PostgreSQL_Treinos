@@ -1,2 +1,2 @@
 # Treino-1---SQL
-Exercício de treino para consulta de dados em SQL Postgre
+Exercícios de treino para manipulação de dados em PostgreSQL
